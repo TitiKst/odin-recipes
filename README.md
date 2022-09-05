@@ -1,2 +1,2 @@
 # odin-recipes
-Proyecto basico de HTML
+Proyecto en HTML para una pagina de recetas.
